@@ -7,7 +7,7 @@ Follow me on Pinterest.
 Design: https://www.pinterest.com/manningstinson/
 Wellness: https://www.pinterest.com/train5d/
 
-Interests:
+**Interests:**
 Medical Illustration <br>
 Anatomy & Physiology <br>
 How the Brain Learns & Retains Information <br>
