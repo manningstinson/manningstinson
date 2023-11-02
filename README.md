@@ -9,7 +9,7 @@ Wellness: https://www.pinterest.com/train5d/
 
 Interests:
 Medical Illustration <br>
-Anatomy & Physiology >br>
+Anatomy & Physiology <br>
 How the Brain Learns & Retains Information <br>
 Reading, Writing, and Blogging
 
