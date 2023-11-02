@@ -3,13 +3,11 @@
 # Hi there! 👋
 With a background in digital design, and a heart for whole-person wellness, I'm on a mission to create digital solutions that enhance people’s lives. Whether it's through designing engaging fitness apps, wellness websites, or impactful content, my goal is to inspire healthier choices. Let’s innovate, and transform lives together! 
 
-View my current project - train5d.com
-
 Follow me on Pinterest.
 Design: https://www.pinterest.com/manningstinson/
 Wellness: https://www.pinterest.com/train5d/
 
-Interests
+Interests:
 Medical Illustration
 Anatomy & Physiology
 How the Brain Learns & Retains Information
