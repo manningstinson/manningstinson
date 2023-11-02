@@ -8,9 +8,9 @@ Design: https://www.pinterest.com/manningstinson/
 Wellness: https://www.pinterest.com/train5d/
 
 Interests:
-Medical Illustration
-Anatomy & Physiology
-How the Brain Learns & Retains Information
+Medical Illustration <br>
+Anatomy & Physiology >br>
+How the Brain Learns & Retains Information <br>
 Reading, Writing, and Blogging
 
 <!--
