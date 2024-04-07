@@ -16,6 +16,8 @@ Reading, Writing, and Blogging
 
 ## Stats
 ![Manning's GitHub stats](https://github-readme-stats.vercel.app/api?username=manningstinson&hide=contribs,prs)
+
+## Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manningstinson&layout=compact)
 
 <!--
