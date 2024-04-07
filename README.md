@@ -15,7 +15,7 @@ How the Brain Learns & Retains Information <br>
 Reading, Writing, and Blogging
 
 ## Stats & Profile Views
-<table cellpadding="10" cellspacing="0" border="0" width="100%">
+<table>
   <tr>
     <td valign="top" width="50%">
 
@@ -24,12 +24,13 @@ Reading, Writing, and Blogging
     </td>
     <td valign="top" width="50%">
 
+---
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manningstinson&hide_border=true&layout=compact)
 
     </td>
   </tr>
 </table>
-
 
 
 
