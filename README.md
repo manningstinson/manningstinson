@@ -35,7 +35,7 @@ Reading, Writing, and Blogging
 # Shop (Buy My Work)
 In addtion to my development work, I also create abstract art, and repurpose it for different products and accessories.  Here are some products that I particulary like, and are available for purchase on my website. Some itesms are available in bundles/sets. <br> 
 
-**[Visit the shop]**(https://manningstinson.com/shop) | [Backpacks](https://manningstinson.com/product-category/backpacks/) | [Canvas Prints](https://manningstinson.com/product-category/canvas-prints/) | [Mugs](https://manningstinson.com/product-category/mugs/) | [Spiral Notebooks](https://manningstinson.com/product-category/spiral-notebooks/)
+**[Visit the shop](https://manningstinson.com/shop)** | [Backpacks](https://manningstinson.com/product-category/backpacks/) | [Canvas Prints](https://manningstinson.com/product-category/canvas-prints/) | [Mugs](https://manningstinson.com/product-category/mugs/) | [Spiral Notebooks](https://manningstinson.com/product-category/spiral-notebooks/)
 
 
 <img width="200" alt="F88FA592-FAD0-4BB3-A899-172395E14CE5" src="https://github.com/manningstinson/manningstinson/assets/104523090/082af53b-1b10-428b-a7dc-682147e10966">
