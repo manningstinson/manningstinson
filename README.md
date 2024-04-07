@@ -40,6 +40,30 @@ Reading, Writing, and Blogging
 | Content  | Content  | Content  | Content  | Content  |
 | Content  | Content  | Content  | Content  | Content  |
 
+<table>
+  <tr>
+    <td>Column 1</td>
+    <td>Column 2</td>
+    <td>Column 3</td>
+    <td>Column 4</td>
+    <td>Column 5</td>
+  </tr>
+  <tr>
+    <td>Content</td>
+    <td>Content</td>
+    <td style="background-color: white;">Content</td>
+    <td>Content</td>
+    <td>Content</td>
+  </tr>
+  <tr>
+    <td>Content</td>
+    <td>Content</td>
+    <td>Content</td>
+    <td>Content</td>
+    <td>Content</td>
+  </tr>
+</table>
+
 
 
 <!--
