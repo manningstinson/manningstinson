@@ -37,25 +37,6 @@ In addtion to my development work, I also create abstract art, and repurpose it 
 <img width="200" alt="BBB3FEE2-B53B-4C11-977C-BC605864EA84" src="https://github.com/manningstinson/manningstinson/assets/104523090/bfbf453b-e169-4820-8be3-7e3b2c14c683">
 <img width="200" alt="EB552C06-062F-4FC4-8D06-D6B3B1615CB5" src="https://github.com/manningstinson/manningstinson/assets/104523090/2b1db3b4-7b01-413e-abeb-e7aa3f4e83a8">
 
-<table style="border: none;">
-  <tr>
-    <td valign="top" width="55%">
-    
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manningstinson&show_icons=true&count_private=true&hide_border=true)
-
-</td>
-<td valign="top" width="45%">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manningstinson&hide_border=true&layout=donut&hide=roff,&langs_count=6&include_repo=html,css,python,react,c&hide_title=true)
-
-</td>
-</tr>
-</table>
-
-![](https://komarev.com/ghpvc/?username=manningstinson&style=for-the-badge)
-
-
-
 
 ## Follow me on Pinterest
 Design: https://www.pinterest.com/manningstinson/ <br>
