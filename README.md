@@ -17,12 +17,12 @@ Reading, Writing, and Blogging
 ## Stats & Profile Views
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="55%">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manningstinson&show_icons=true&count_private=true&hide_border=true)
 
 </td>
-<td valign="top" width="40%">
+<td valign="top" width="45%">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manningstinson&hide_border=true&layout=donut&hide=roff,&langs_count=6&include_repo=html,css,python,react,c&hide_title=true)
 
