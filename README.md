@@ -35,13 +35,13 @@ Reading, Writing, and Blogging
 # Shop (Buy My Work)
 In addtion to my development work, I also create abstract art, and repurpose it for different product and accessories.  Here are some products that I particulary like, and are available for purchase on my website.  [Visit the shop](https://manningstinson.com/shop)
 
+<img width="150" alt="94D8EEAD-503B-44B2-BF46-C8C65D58A74F" src="https://github.com/manningstinson/manningstinson/assets/104523090/d58d2ee5-77c2-4211-806d-4c2d1670987f">
 
-<img width="200" alt="F87C4D6E-FC2D-4610-BC99-5738E2ACA6CB" src="https://github.com/manningstinson/manningstinson/assets/104523090/9df5eaf6-35ae-4651-a4c5-2a76564b6e50">
+<img width="150" alt="09041838-DA93-49C0-9C2F-E42AA47EA07B" src="https://github.com/manningstinson/manningstinson/assets/104523090/7efd12f9-551e-4415-b2f1-ee05dfb57045">
 
-<img width="200" alt="C0D0CD36-29AD-4436-997D-946A4E8BD0DB" src="https://github.com/manningstinson/manningstinson/assets/104523090/74a6d321-4f27-4742-8285-e51a5652a792">
+<img width="150" alt="F2C6A4A7-17DC-423D-AA37-8A5C81CE50EB" src="https://github.com/manningstinson/manningstinson/assets/104523090/fffcec0e-2545-4b5c-9a71-96b4bf794df1">
 
-<img width="200" alt="10BDFF20-C639-4E68-96BF-02908EE21D2E" src="https://github.com/manningstinson/manningstinson/assets/104523090/50bae6c3-f79c-4b55-9522-b8ff04595217">
-
+<img width="150" alt="F88FA592-FAD0-4BB3-A899-172395E14CE5" src="https://github.com/manningstinson/manningstinson/assets/104523090/082af53b-1b10-428b-a7dc-682147e10966">
 
 
 <!--
