@@ -14,6 +14,7 @@ How the Brain Learns & Retains Information <br>
 Reading, Writing, and Blogging
 
 ![manningstinson's Stats](https://github-readme-stats.vercel.app/api?username=manningstinson&theme=graywhite&show_icons=true&hide_border=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=manningstinson&theme=radical&hide_border=false)<br/>
 
 <!--
 **manningstinson/manningstinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
