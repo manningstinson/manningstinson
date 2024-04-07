@@ -15,7 +15,7 @@ How the Brain Learns & Retains Information <br>
 Reading, Writing, and Blogging
 
 ## Stats & Profile Views
-![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=manningstinson&style=for-the-badge)
 
 <!--
 **manningstinson/manningstinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
