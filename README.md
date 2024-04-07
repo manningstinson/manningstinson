@@ -29,7 +29,7 @@ With a background in digital design, and a heart for whole-person wellness, I'm 
 ## Current Projects
 | # | Name | Repo Type | Summary |
 |-----------|------|-----------|---------|
-| 1 | Train5D Workout Planner | Private | Python Project|
+| 1 | Train5D Workout Planner | Private | Python Project & MySql Database
 | 2 |      |           |         |
 | 3 |      |           |         |
 | 4 |      |           |         |
