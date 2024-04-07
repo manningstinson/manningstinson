@@ -24,7 +24,7 @@ Reading, Writing, and Blogging
 </td>
 <td valign="top" width="50%">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manningstinson&hide_border=true&layout=compact&hide=roff,c%2B%2B&langs_count=6&include_repo=html,css,python,react,c)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manningstinson&hide_border=true&layout=donut&hide=roff,&langs_count=6&include_repo=html,css,python,react,c)
 
 
 </td>
