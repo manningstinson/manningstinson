@@ -18,7 +18,7 @@ Reading, Writing, and Blogging
 
 <table><tr><td valign="top" width="50%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manningstinson&show_icons=true&count_private=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manningstinson&show_icons=true&count_private=false&hide_border=true)
 
 </td><td valign="top" width="50%">
 
