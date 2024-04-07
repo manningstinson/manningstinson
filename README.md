@@ -35,7 +35,7 @@ Reading, Writing, and Blogging
 # Shop (Buy My Work)
 In addtion to my development work, I also create abstract art, and repurpose it for different product and accessories.  Here are some products that I particulary like, and are available for purchase on my website.  [Visit the shop](https://manningstinson.com/shop)
 
-<img width="175" alt="94D8EEAD-503B-44B2-BF46-C8C65D58A74F" src="https://github.com/manningstinson/manningstinson/assets/104523090/d58d2ee5-77c2-4211-806d-4c2d1670987f">
+![springtime canvas print, pinks, and whites abstract art](https://manningstinson.com/shop)
 
 <img width="175" alt="09041838-DA93-49C0-9C2F-E42AA47EA07B" src="https://github.com/manningstinson/manningstinson/assets/104523090/7efd12f9-551e-4415-b2f1-ee05dfb57045">
 
