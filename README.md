@@ -34,36 +34,30 @@ Reading, Writing, and Blogging
 ![](https://komarev.com/ghpvc/?username=manningstinson&style=for-the-badge)
 
 ## Languages
-| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 |
-|----------|----------|----------|----------|----------|
-| Content  | Content  | Content  | Content  | Content  |
-| Content  | Content  | Content  | Content  | Content  |
-| Content  | Content  | Content  | Content  | Content  |
 
-<table>
-  <tr>
-    <td>Column 1</td>
-    <td>Column 2</td>
-    <td>Column 3</td>
-    <td>Column 4</td>
-    <td>Column 5</td>
+<table style="border-collapse: collapse; width: 100%;">
+  <tr style="background-color: white;">
+    <td style="border: none; padding: 10px;">Column 1</td>
+    <td style="border: none; padding: 10px;">Column 2</td>
+    <td style="border: none; padding: 10px;">Column 3</td>
+    <td style="border: none; padding: 10px;">Column 4</td>
+    <td style="border: none; padding: 10px;">Column 5</td>
   </tr>
-  <tr>
-    <td>Content</td>
-    <td>Content</td>
-    <td style="background-color: white;">Content</td>
-    <td>Content</td>
-    <td>Content</td>
+  <tr style="background-color: white;">
+    <td style="border: none; padding: 10px;">Content</td>
+    <td style="border: none; padding: 10px;">Content</td>
+    <td style="border: none; padding: 10px;">Content</td>
+    <td style="border: none; padding: 10px;">Content</td>
+    <td style="border: none; padding: 10px;">Content</td>
   </tr>
-  <tr>
-    <td>Content</td>
-    <td>Content</td>
-    <td>Content</td>
-    <td>Content</td>
-    <td>Content</td>
+  <tr style="background-color: white;">
+    <td style="border: none; padding: 10px;">Content</td>
+    <td style="border: none; padding: 10px;">Content</td>
+    <td style="border: none; padding: 10px;">Content</td>
+    <td style="border: none; padding: 10px;">Content</td>
+    <td style="border: none; padding: 10px;">Content</td>
   </tr>
 </table>
-
 
 
 <!--
