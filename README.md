@@ -33,8 +33,6 @@ Reading, Writing, and Blogging
 
 ![](https://komarev.com/ghpvc/?username=manningstinson&style=for-the-badge)
 
-## Languages
-
 <!--
 **manningstinson/manningstinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
