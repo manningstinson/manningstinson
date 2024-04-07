@@ -3,7 +3,7 @@
 # Hi there! 👋
 With a background in digital design, and a heart for whole-person wellness, I'm on a mission to create digital solutions that enhance people’s lives. Whether it's through designing engaging fitness apps, wellness websites, or impactful content, my goal is to inspire healthier choices. Let’s innovate, and transform lives together! 
 
-### Interests**
+### Interests
 Medical Illustration <br>
 Anatomy & Physiology <br>
 How the Brain Learns & Retains Information <br>
