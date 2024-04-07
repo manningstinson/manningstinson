@@ -47,7 +47,7 @@ With a background in digital design, and a heart for whole-person wellness, I'm 
 
 ## Current Projects
 
-| #   | Name                            | Repo    | Summary                               | Languages                       |
+| #   | Name                            | Repo    | Summary                               | Languages/Platforms                       |
 |-----|---------------------------------|---------|---------------------------------------|---------------------------------|
 | 1   | Workout Planner         | Private | Train5D Workout Planner                       | Python, HTML, CSS, MySQL       |
 | 2   | Supplement Calculator  | Private | Train5D Supplement Calculator                 | JavaScript, SASS, React, HTML |
