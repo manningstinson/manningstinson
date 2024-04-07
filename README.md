@@ -27,13 +27,13 @@ With a background in digital design, and a heart for whole-person wellness, I'm 
 ![](https://komarev.com/ghpvc/?username=manningstinson&style=for-the-badge)
 
 ## Current Projects
-| Project # | Name | Repo Type | Summary |
+| # | Name | Repo Type | Summary |
 |-----------|------|-----------|---------|
-| 1         |      |           |         |
-| 2         |      |           |         |
-| 3         |      |           |         |
-| 4         |      |           |         |
-| 5         |      |           |         |
+| 1 | Train5D Workout Planner | Private | Python Project|
+| 2 |      |           |         |
+| 3 |      |           |         |
+| 4 |      |           |         |
+| 5 |      |           |         |
 
 
 
