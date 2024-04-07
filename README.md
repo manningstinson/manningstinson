@@ -47,14 +47,13 @@ With a background in digital design, and a heart for whole-person wellness, I'm 
 
 ## Current Projects
 
-| #   | Name                  | Repo    | Summary                                                           | Languages                       |
-|-----|-----------------------|---------|-------------------------------------------------------------------|---------------------------------|
-| 1   | Workout Planner       | Private | Tran5D Workout Planner. Tags: Tag1, Tag2                        | Python, HTML, CSS, MySQL       |
-| 2   | Supplement Calculator| Private | Train5D Supplement Calculator. Tags: Tag3, Tag4                 | JavaScript, SASS, React, HTML |
-| 3   |                      |         |                                                                   |                                 |
-| 4   |                      |         |                                                                   |                                 |
-| 5   |                      |         |                                                                   |                                 |
-
+| #   | Name                            | Repo    | Summary                               | Languages                       |
+|-----|---------------------------------|---------|---------------------------------------|---------------------------------|
+| 1   | Tran5D Workout Planner         | Private | Workout Planner. Tags: Tag1, Tag2.   | Python, HTML, CSS, MySQL       |
+| 2   | Train5D Supplement Calculator  | Private | Supplement Calculator. Tags: Tag3, Tag4. | JavaScript, SASS, React, HTML |
+| 3   | 3                               |         |                                       |                                 |
+| 4   | 4                               |         |                                       |                                 |
+| 5   | 5                               |         |                                       |                                 |
 
 
 ## Visual & Product Design | Abstract Art
