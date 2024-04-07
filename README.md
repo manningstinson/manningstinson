@@ -26,13 +26,17 @@ Reading, Writing, and Blogging
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manningstinson&hide_border=true&layout=donut&hide=roff,&langs_count=6&include_repo=html,css,python,react,c&hide_title=true)
 
-
-
 </td>
 </tr>
 </table>
 
 ![](https://komarev.com/ghpvc/?username=manningstinson&style=for-the-badge)
+
+# Shop (Buy My Work)
+In addtion to my development work, I also create abstract art, and repurpose it for different product and accessories.  Here are some products that I particulary like, and are available for purchase on my website.  [Visit the shop](https://manningstinson.com/shop)
+
+
+
 
 <!--
 **manningstinson/manningstinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
