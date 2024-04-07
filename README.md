@@ -34,11 +34,7 @@ Reading, Writing, and Blogging
 ![](https://komarev.com/ghpvc/?username=manningstinson&style=for-the-badge)
 
 ## Languages
-
-| Header 1 | Header 2 | Header 3 |
-|----------|----------|----------|
-| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
-| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
+<img width="75" alt="docker" src="https://github.com/manningstinson/manningstinson/assets/104523090/e853a528-8490-4caf-aba6-926fa58cd83d">
 
 
 <!--
