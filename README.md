@@ -14,8 +14,8 @@ Anatomy & Physiology <br>
 How the Brain Learns & Retains Information <br>
 Reading, Writing, and Blogging
 
-## Stats
-![Manning's GitHub stats](https://github-readme-stats.vercel.app/api?username=manningstinson&hide=contribs,prs)
+## Stats & Profile Views
+![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
 
 <!--
 **manningstinson/manningstinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
