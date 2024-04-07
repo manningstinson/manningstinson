@@ -33,13 +33,10 @@ In addtion to my development work, I also create abstract art, and repurpose it 
 
 **[Visit the shop](https://manningstinson.com/shop)** | [Backpacks](https://manningstinson.com/product-category/backpacks/) | [Canvas Prints](https://manningstinson.com/product-category/canvas-prints/) | [Mugs](https://manningstinson.com/product-category/mugs/) | [Spiral Notebooks](https://manningstinson.com/product-category/spiral-notebooks/)
 
-<img width="150" alt="67F51697-439C-4780-B9AC-EBD1F5F156B3" src="https://github.com/manningstinson/manningstinson/assets/104523090/1397e337-5c4d-4557-85cc-d53f7a60cf57">
-
-<img width="150" alt="97C1F4B4-E6C3-4C05-B0FE-E17650970CC1" src="https://github.com/manningstinson/manningstinson/assets/104523090/a0c4a12a-c41d-4831-80a2-76599a2d69d6">
-
-<img width="150" alt="BBB3FEE2-B53B-4C11-977C-BC605864EA84" src="https://github.com/manningstinson/manningstinson/assets/104523090/bfbf453b-e169-4820-8be3-7e3b2c14c683">
-
-<img width="150" alt="EB552C06-062F-4FC4-8D06-D6B3B1615CB5" src="https://github.com/manningstinson/manningstinson/assets/104523090/2b1db3b4-7b01-413e-abeb-e7aa3f4e83a8">
+<img width="200" alt="67F51697-439C-4780-B9AC-EBD1F5F156B3" src="https://github.com/manningstinson/manningstinson/assets/104523090/1397e337-5c4d-4557-85cc-d53f7a60cf57">
+<img width="200" alt="97C1F4B4-E6C3-4C05-B0FE-E17650970CC1" src="https://github.com/manningstinson/manningstinson/assets/104523090/a0c4a12a-c41d-4831-80a2-76599a2d69d6">
+<img width="200" alt="BBB3FEE2-B53B-4C11-977C-BC605864EA84" src="https://github.com/manningstinson/manningstinson/assets/104523090/bfbf453b-e169-4820-8be3-7e3b2c14c683">
+<img width="200" alt="EB552C06-062F-4FC4-8D06-D6B3B1615CB5" src="https://github.com/manningstinson/manningstinson/assets/104523090/2b1db3b4-7b01-413e-abeb-e7aa3f4e83a8">
 
 
 
