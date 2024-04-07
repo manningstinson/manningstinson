@@ -28,6 +28,9 @@ With a background in digital design, and a heart for whole-person wellness, I'm 
 
 ## Languages & Platforms
 
+![github](https://github.com/manningstinson/manningstinson/assets/104523090/f3bff1b7-46ce-42bb-a3c6-ca5c7a49e7d7 =70px)
+
+
 
 
 
