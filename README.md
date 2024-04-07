@@ -26,6 +26,16 @@ With a background in digital design, and a heart for whole-person wellness, I'm 
 
 ![](https://komarev.com/ghpvc/?username=manningstinson&style=for-the-badge)
 
+## Current Projects
+| Project # | Name | Repo Type | Summary |
+|-----------|------|-----------|---------|
+| 1         |      |           |         |
+| 2         |      |           |         |
+| 3         |      |           |         |
+| 4         |      |           |         |
+| 5         |      |           |         |
+
+
 
 ## Visual & Product Design | Abstract Art
 In addtion to my development work, I also create abstract art, and repurpose it for different products and accessories.  Here are some products that I particulary like, and are available for purchase on my website. Some items are available in bundles/sets. Featured below is the **Small Details** set. <br> 
