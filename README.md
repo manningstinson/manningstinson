@@ -34,7 +34,7 @@ Reading, Writing, and Blogging
 ![](https://komarev.com/ghpvc/?username=manningstinson&style=for-the-badge)
 
 ## Languages
-<img width="150px" alt="docker" src="https://github.com/manningstinson/manningstinson/assets/104523090/e853a528-8490-4caf-aba6-926fa58cd83d">
+<img width="80" alt="docker" src="https://github.com/manningstinson/manningstinson/assets/104523090/e853a528-8490-4caf-aba6-926fa58cd83d">
 
 
 <!--
