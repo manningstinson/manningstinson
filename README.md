@@ -35,30 +35,6 @@ Reading, Writing, and Blogging
 
 ## Languages
 
-<table style="border-collapse: collapse; width: 100%;">
-  <tr style="background-color: white;">
-    <td style="border: none; padding: 10px;">Column 1</td>
-    <td style="border: none; padding: 10px;">Column 2</td>
-    <td style="border: none; padding: 10px;">Column 3</td>
-    <td style="border: none; padding: 10px;">Column 4</td>
-    <td style="border: none; padding: 10px;">Column 5</td>
-  </tr>
-  <tr style="background-color: white;">
-    <td style="border: none; padding: 10px;">Content</td>
-    <td style="border: none; padding: 10px;">Content</td>
-    <td style="border: none; padding: 10px;">Content</td>
-    <td style="border: none; padding: 10px;">Content</td>
-    <td style="border: none; padding: 10px;">Content</td>
-  </tr>
-  <tr style="background-color: white;">
-    <td style="border: none; padding: 10px;">Content</td>
-    <td style="border: none; padding: 10px;">Content</td>
-    <td style="border: none; padding: 10px;">Content</td>
-    <td style="border: none; padding: 10px;">Content</td>
-    <td style="border: none; padding: 10px;">Content</td>
-  </tr>
-</table>
-
 
 <!--
 **manningstinson/manningstinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
