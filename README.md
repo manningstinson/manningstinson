@@ -8,12 +8,13 @@ With a background in digital design, and a heart for whole-person wellness, I'm 
 Design: https://www.pinterest.com/manningstinson/ <br>
 Wellness: https://www.pinterest.com/train5d/
 
-## Interests:
+## Interests
 Medical Illustration <br>
 Anatomy & Physiology <br>
 How the Brain Learns & Retains Information <br>
 Reading, Writing, and Blogging
 
+## Stats
 ![manningstinson's Stats](https://github-readme-stats.vercel.app/api?username=manningstinson&theme=graywhite&show_icons=true&hide_border=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/username=manningstinson&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
