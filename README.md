@@ -46,15 +46,13 @@ With a background in digital design, and a heart for whole-person wellness, I'm 
 <img width="60" alt="C Logo" src="https://github.com/manningstinson/manningstinson/assets/104523090/abd59507-4991-46fd-840a-4195770d38af">
 
 
-
-## Current Projects
-
 ## Current Projects
 
 | #   | Name                  | Repo    | Summary                           | Tags          | Languages                       |
 |-----|-----------------------|---------|-----------------------------------|---------------|---------------------------------|
 | 1   | Workout Planner       | Private | Tran5D Workout Planner            | Tag1, Tag2    | Python, HTML, CSS, MySQL       |
 | 2   | Supplement Calculator| Private | Train5D Supplement Calculator     | Tag3, Tag4    | JavaScript, SASS, React, HTML |
+
 
 
 ## Visual & Product Design | Abstract Art
