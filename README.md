@@ -26,6 +26,27 @@ With a background in digital design, and a heart for whole-person wellness, I'm 
 
 ![](https://komarev.com/ghpvc/?username=manningstinson&style=for-the-badge)
 
+## Languages & Platforms
+
+![Add a heading - 26](https://github.com/manningstinson/manningstinson/assets/104523090/b7afe94a-5ae4-4cdb-9a46-9bbb75d10824)
+
+![Add a heading - 27](https://github.com/manningstinson/manningstinson/assets/104523090/1df48810-3416-4cde-9f71-696953e214fb)
+
+![Add a heading - 28](https://github.com/manningstinson/manningstinson/assets/104523090/3156049b-abf7-4384-a1aa-efc89c22921f)
+
+![Add a heading - 29](https://github.com/manningstinson/manningstinson/assets/104523090/a02a235b-6d65-4881-a946-557c80765d78)
+
+![Add a heading - 30](https://github.com/manningstinson/manningstinson/assets/104523090/006a8f32-4712-41d3-8d7b-504c45caab70)
+
+![Add a heading - 31](https://github.com/manningstinson/manningstinson/assets/104523090/f3bbf9bc-80e9-4161-8292-94af4d670881)
+
+![Add a heading - 32](https://github.com/manningstinson/manningstinson/assets/104523090/2b015b9a-f743-4a10-bbf7-342e2ddc1805)
+
+
+
+
+
+
 ## Current Projects
 
 | #   | Name                             | Repo    | Summary                                                | Languages                |
