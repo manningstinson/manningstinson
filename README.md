@@ -29,7 +29,7 @@ Reading, Writing, and Blogging
 
 
 ## Shop | Abstract Art
-In addtion to my development work, I also create abstract art, and repurpose it for different products and accessories.  Here are some products that I particulary like, and are available for purchase on my website. Some items are available in bundles/sets. Featured below is the Small Details set. <br> 
+In addtion to my development work, I also create abstract art, and repurpose it for different products and accessories.  Here are some products that I particulary like, and are available for purchase on my website. Some items are available in bundles/sets. Featured below is the **Small Details** set. <br> 
 
 **[Visit the shop](https://manningstinson.com/shop)** | [Backpacks](https://manningstinson.com/product-category/backpacks/) | [Canvas Prints](https://manningstinson.com/product-category/canvas-prints/) | [Mugs](https://manningstinson.com/product-category/mugs/) | [Spiral Notebooks](https://manningstinson.com/product-category/spiral-notebooks/)
 
