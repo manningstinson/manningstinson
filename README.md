@@ -27,23 +27,23 @@ With a background in digital design, and a heart for whole-person wellness, I'm 
 ![](https://komarev.com/ghpvc/?username=manningstinson&style=for-the-badge)
 
 ## Languages & Platforms
-<img width="70" alt="github" src="https://github.com/manningstinson/manningstinson/assets/104523090/f3bff1b7-46ce-42bb-a3c6-ca5c7a49e7d7">
-<img width="70" alt="Github Logo" src="https://github.com/manningstinson/manningstinson/assets/104523090/3ef5fd7b-5d83-4c4f-a1b0-5e13f78c2a96">
-<img width="70" alt="Figma Logo" src="https://github.com/manningstinson/manningstinson/assets/104523090/c3d0a233-8592-4915-913a-46458155ed21">
-<img width="70" alt="React Logo" src="https://github.com/manningstinson/manningstinson/assets/104523090/7a077ae7-0595-421b-88e7-de536ec5ed93">
-<img width="70" alt="HTML 5 Logo" src="https://github.com/manningstinson/manningstinson/assets/104523090/91184812-9264-4760-90c0-d84bf6bfa76c">
-<img width="70" alt="MySQL Logo" src="https://github.com/manningstinson/manningstinson/assets/104523090/4ff77c77-9437-4ee3-acd7-24b32fd3f844">
-<img width="70" alt="SASS Logo" src="https://github.com/manningstinson/manningstinson/assets/104523090/f27c7eb6-ea95-4136-9379-9396a85d1b2f">
-<img width="70" alt="CSS 3 Logo" src="https://github.com/manningstinson/manningstinson/assets/104523090/0b1d1ad3-73ac-4826-ab38-15bb34ce43d1">
-<img width="70" alt="PHO Logo" src="https://github.com/manningstinson/manningstinson/assets/104523090/a10eeaf6-51e0-415d-88db-30a999828f1c">
-<img width="70" alt="Linuz Logo" src="https://github.com/manningstinson/manningstinson/assets/104523090/611b270c-5b4f-4baa-8f17-8fdcb2509dbb">
-<img width="70" alt="Javascript Logo" src="https://github.com/manningstinson/manningstinson/assets/104523090/4de9f182-e5db-4b03-aabe-6551cae12cf3">
-<img width="70" alt="Python Logo" src="https://github.com/manningstinson/manningstinson/assets/104523090/fabce8cd-1c5d-4c97-bb94-5d8de4cdbaca">
-<img width="70" alt="WordPress Logo" src="https://github.com/manningstinson/manningstinson/assets/104523090/1d90e83d-d750-4701-84c3-9e71ad90a874">
-<img width="70" alt="Add a heading - 39" src="https://github.com/manningstinson/manningstinson/assets/104523090/9d0e7f35-e7d9-4962-a61a-8ad0d82e3bf3">
-<img width="70" alt="Add a heading - 40" src="https://github.com/manningstinson/manningstinson/assets/104523090/f71cad9d-94bf-4a73-9d63-4eed7d96a30c">
-<img width="70" alt="Add a heading - 41" src="https://github.com/manningstinson/manningstinson/assets/104523090/501c75d0-df76-405f-abd7-d16e1bfaf215">
-<img width="70" alt="Add a heading - 42" src="https://github.com/manningstinson/manningstinson/assets/104523090/abd59507-4991-46fd-840a-4195770d38af">
+<img width="70" alt="github logo" src="https://github.com/manningstinson/manningstinson/assets/104523090/f3bff1b7-46ce-42bb-a3c6-ca5c7a49e7d7">
+<img width="70" alt="Figma Logo" src="https://github.com/manningstinson/manningstinson/assets/104523090/3ef5fd7b-5d83-4c4f-a1b0-5e13f78c2a96">
+<img width="70" alt="React Logo" src="https://github.com/manningstinson/manningstinson/assets/104523090/c3d0a233-8592-4915-913a-46458155ed21">
+<img width="70" alt="HTML 5 Logo" src="https://github.com/manningstinson/manningstinson/assets/104523090/7a077ae7-0595-421b-88e7-de536ec5ed93">
+<img width="70" alt="MySQL Logo" src="https://github.com/manningstinson/manningstinson/assets/104523090/91184812-9264-4760-90c0-d84bf6bfa76c">
+<img width="70" alt="SASS Logo" src="https://github.com/manningstinson/manningstinson/assets/104523090/4ff77c77-9437-4ee3-acd7-24b32fd3f844">
+<img width="70" alt="CSS 3 Logo" src="https://github.com/manningstinson/manningstinson/assets/104523090/f27c7eb6-ea95-4136-9379-9396a85d1b2f">
+<img width="70" alt="PHP Logo" src="https://github.com/manningstinson/manningstinson/assets/104523090/0b1d1ad3-73ac-4826-ab38-15bb34ce43d1">
+<img width="70" alt="Linux Logo" src="https://github.com/manningstinson/manningstinson/assets/104523090/a10eeaf6-51e0-415d-88db-30a999828f1c">
+<img width="70" alt="Javascript Logo" src="https://github.com/manningstinson/manningstinson/assets/104523090/611b270c-5b4f-4baa-8f17-8fdcb2509dbb">
+<img width="70" alt="Python Logo" src="https://github.com/manningstinson/manningstinson/assets/104523090/4de9f182-e5db-4b03-aabe-6551cae12cf3">
+<img width="70" alt="WordPress Logo" src="https://github.com/manningstinson/manningstinson/assets/104523090/fabce8cd-1c5d-4c97-bb94-5d8de4cdbaca">
+<img width="70" alt="Flask Logo" src="https://github.com/manningstinson/manningstinson/assets/104523090/1d90e83d-d750-4701-84c3-9e71ad90a874">
+<img width="70" alt="Docker Logo" src="https://github.com/manningstinson/manningstinson/assets/104523090/9d0e7f35-e7d9-4962-a61a-8ad0d82e3bf3">
+<img width="70" alt="Github Codespaces Logo" src="https://github.com/manningstinson/manningstinson/assets/104523090/f71cad9d-94bf-4a73-9d63-4eed7d96a30c">
+<img width="70" alt="Node.js Logo" src="https://github.com/manningstinson/manningstinson/assets/104523090/501c75d0-df76-405f-abd7-d16e1bfaf215">
+<img width="70" alt="C Logo" src="https://github.com/manningstinson/manningstinson/assets/104523090/abd59507-4991-46fd-840a-4195770d38af">
 
 
 
