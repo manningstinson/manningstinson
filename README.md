@@ -15,7 +15,7 @@ How the Brain Learns & Retains Information <br>
 Reading, Writing, and Blogging
 
 ## Stats
-![manningstinson's Stats](https://github-readme-stats.vercel.app/api?username=manningstinson&theme=default&show_icons=true&hide_border=false&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manningstinson&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manningstinson&layout=compact)](https://github.com/manningstinson/github-readme-stats)
 
 <!--
