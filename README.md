@@ -33,7 +33,9 @@ Reading, Writing, and Blogging
 ![](https://komarev.com/ghpvc/?username=manningstinson&style=for-the-badge)
 
 # Shop (Buy My Work)
-In addtion to my development work, I also create abstract art, and repurpose it for different products and accessories.  Here are some products that I particulary like, and are available for purchase on my website. Some itesms are available in bundles/sets. [Visit the shop](https://manningstinson.com/shop)
+In addtion to my development work, I also create abstract art, and repurpose it for different products and accessories.  Here are some products that I particulary like, and are available for purchase on my website. Some itesms are available in bundles/sets. <br> 
+
+### [Visit the shop](https://manningstinson.com/shop)
 
 [Backpacks](https://manningstinson.com/product-category/backpacks/) | [Canvas Prints](https://manningstinson.com/product-category/canvas-prints/) | [Mugs](https://manningstinson.com/product-category/mugs/) | [Spiral Notebooks](https://manningstinson.com/product-category/spiral-notebooks/)
 
