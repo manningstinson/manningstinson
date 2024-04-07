@@ -34,8 +34,6 @@ With a background in digital design, and a heart for whole-person wellness, I'm 
 | 4         |      |           |         |           |
 | 5         |      |           |         |           |
 
-<img width="250" alt="7012D8BD-EADD-48E8-BB80-F07C3D3C4368" src="https://github.com/manningstinson/manningstinson/assets/104523090/7299bcb6-fb0b-410e-b036-a0e6545bbe04">
-
 
 ## Visual & Product Design | Abstract Art
 In addtion to my development work, I also create abstract art, and repurpose it for different products and accessories.  Here are some products that I particulary like, and are available for purchase on my website. Some items are available in bundles/sets. Featured below is the **Small Details** set. <br> 
