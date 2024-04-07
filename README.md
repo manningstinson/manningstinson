@@ -27,8 +27,7 @@ With a background in digital design, and a heart for whole-person wellness, I'm 
 ![](https://komarev.com/ghpvc/?username=manningstinson&style=for-the-badge)
 
 ## Languages & Platforms
-<img width="70" alt="67F51697-439C-4780-B9AC-EBD1F5F156B3" src="https://github.com/manningstinson/manningstinson/assets/104523090/1397e337-5c4d-4557-85cc-d53f7a60cf57">
-
+<img width="200" alt="github" src="https://github.com/manningstinson/manningstinson/assets/104523090/f3bff1b7-46ce-42bb-a3c6-ca5c7a49e7d7">
 
 
 
