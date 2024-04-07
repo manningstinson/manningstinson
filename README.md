@@ -48,14 +48,15 @@ With a background in digital design, and a heart for whole-person wellness, I'm 
 
 ## Current Projects
 
+## Current Projects
+
 | #   | Name                  | Repo    | Summary                           | Tags          | Languages                       |
 |-----|-----------------------|---------|-----------------------------------|---------------|---------------------------------|
 | 1   | Workout Planner       | Private | Tran5D Workout Planner            | Tag1, Tag2    | Python, HTML, CSS, MySQL       |
 | 2   | Supplement Calculator| Private | Train5D Supplement Calculator     | Tag3, Tag4    | JavaScript, SASS, React, HTML |
-| 3   | Project3              | Public  | Summary for Project3              | Tag5, Tag6    |           |
-| 4   | Project4              | Private | Summary for Project4              | Tag7, Tag8    |           |
-| 5   | Project5              | Public  | Summary for Project5              | Tag9, Tag10   |           |
-
+| 3   |                      |         |                                   |               |                                 |
+| 4   |                      |         |                                   |               |                                 |
+| 5   |                      |         |                                   |               |                                 |
 
 
 ## Visual & Product Design | Abstract Art
