@@ -29,15 +29,28 @@ Reading, Writing, and Blogging
 
 
 ## Shop | Abstract Art
-In addtion to my development work, I also create abstract art, and repurpose it for different products and accessories.  Here are some products that I particulary like, and are available for purchase on my website. Some items are available in bundles/sets. <br> 
+In addtion to my development work, I also create abstract art, and repurpose it for different products and accessories.  Here are some products that I particulary like, and are available for purchase on my website. Some items are available in bundles/sets. Featured below is the Small Details set. <br> 
 
 **[Visit the shop](https://manningstinson.com/shop)** | [Backpacks](https://manningstinson.com/product-category/backpacks/) | [Canvas Prints](https://manningstinson.com/product-category/canvas-prints/) | [Mugs](https://manningstinson.com/product-category/mugs/) | [Spiral Notebooks](https://manningstinson.com/product-category/spiral-notebooks/)
 
+<img width="150" alt="67F51697-439C-4780-B9AC-EBD1F5F156B3" src="https://github.com/manningstinson/manningstinson/assets/104523090/1397e337-5c4d-4557-85cc-d53f7a60cf57">
 
-<img width="200" alt="F88FA592-FAD0-4BB3-A899-172395E14CE5" src="https://github.com/manningstinson/manningstinson/assets/104523090/082af53b-1b10-428b-a7dc-682147e10966">
-<img width="200" alt="94D8EEAD-503B-44B2-BF46-C8C65D58A74F" src="https://github.com/manningstinson/manningstinson/assets/104523090/f86a8776-9837-4677-a2b0-43882920dc6b">
-<img width="200" alt="09041838-DA93-49C0-9C2F-E42AA47EA07B" src="https://github.com/manningstinson/manningstinson/assets/104523090/7efd12f9-551e-4415-b2f1-ee05dfb57045">
-<img width="200" alt="F2C6A4A7-17DC-423D-AA37-8A5C81CE50EB" src="https://github.com/manningstinson/manningstinson/assets/104523090/fffcec0e-2545-4b5c-9a71-96b4bf794df1">
+<img width="150" alt="97C1F4B4-E6C3-4C05-B0FE-E17650970CC1" src="https://github.com/manningstinson/manningstinson/assets/104523090/a0c4a12a-c41d-4831-80a2-76599a2d69d6">
+
+<img width="150" alt="BBB3FEE2-B53B-4C11-977C-BC605864EA84" src="https://github.com/manningstinson/manningstinson/assets/104523090/bfbf453b-e169-4820-8be3-7e3b2c14c683">
+
+<img width="150" alt="EB552C06-062F-4FC4-8D06-D6B3B1615CB5" src="https://github.com/manningstinson/manningstinson/assets/104523090/2b1db3b4-7b01-413e-abeb-e7aa3f4e83a8">
+
+
+
+
+
+
+
+
+
+
+
 
 ## Follow me on Pinterest
 Design: https://www.pinterest.com/manningstinson/ <br>
