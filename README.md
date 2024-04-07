@@ -15,21 +15,23 @@ How the Brain Learns & Retains Information <br>
 Reading, Writing, and Blogging
 
 ## Stats & Profile Views
-
-<table style="border-collapse: collapse; width: 100%;">
+<table cellpadding="10" cellspacing="0" border="0" width="100%">
   <tr>
-    <td style="padding-right: 10px; vertical-align: top; width: 50%;">
+    <td valign="top" width="50%">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manningstinson&show_icons=true&count_private=true&hide_border=true)
 
     </td>
-    <td style="padding-left: 10px; vertical-align: top; width: 50%;">
+    <td valign="top" width="50%">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manningstinson&hide_border=true&layout=compact)
 
     </td>
   </tr>
 </table>
+
+
+
 
 ![](https://komarev.com/ghpvc/?username=manningstinson&style=for-the-badge)
 
