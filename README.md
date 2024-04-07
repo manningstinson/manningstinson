@@ -45,9 +45,6 @@ With a background in digital design, and a heart for whole-person wellness, I'm 
 <img width="60" alt="Node.js Logo" src="https://github.com/manningstinson/manningstinson/assets/104523090/501c75d0-df76-405f-abd7-d16e1bfaf215">
 <img width="60" alt="C Logo" src="https://github.com/manningstinson/manningstinson/assets/104523090/abd59507-4991-46fd-840a-4195770d38af">
 
-
-## Current Projects
-
 ## Current Projects
 
 | #   | Name                  | Repo    | Summary                           | Tags          | Languages                       |
