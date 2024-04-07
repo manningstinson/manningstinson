@@ -15,7 +15,7 @@ Reading, Writing, and Blogging
 
 <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api?username=manningstinson&show_icons=true" height="200" width="400">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manningstinson&layout=compact" height="200" width="400">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manningstinson&layout=compact" height="200" width="500">
 </div>
 
 
