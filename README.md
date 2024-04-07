@@ -13,8 +13,9 @@ Anatomy & Physiology <br>
 How the Brain Learns & Retains Information <br>
 Reading, Writing, and Blogging
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=manningstinson&show_icons=true)
-![Your Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manningstinson&layout=compact)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=manningstinson&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&custom_title=GitHub%20Stats&theme=dark&hide_border=true&border_radius=10&bg_color=00000000&text_color=9f9f9f&icon_color=79ff97&title_color=ffffff)
+
+![Your Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manningstinson&layout=compact&hide_border=true&border_radius=10&bg_color=00000000&text_color=9f9f9f&icon_color=79ff97&title_color=ffffff)
 
 
 
