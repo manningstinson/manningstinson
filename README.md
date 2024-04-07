@@ -33,6 +33,13 @@ With a background in digital design, and a heart for whole-person wellness, I'm 
 | 1 | Tran5D Workout Planner | Private | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac finibus urna, facilisis pulvinar velit. Pellentesque sit amet tellus id. | <img width="100" alt="6DA8D353-7C6E-4505-A994-03FD4E78F328" src="https://github.com/manningstinson/manningstinson/assets/104523090/3e68e91a-329a-454c-81cf-eca45f5d2674"> <img width="100" alt="7012D8BD-EADD-48E8-BB80-F07C3D3C4368" src="https://github.com/manningstinson/manningstinson/assets/104523090/7299bcb6-fb0b-410e-b036-a0e6545bbe04"> |
 
 
+| # | Name                             | Repo Type | Summary                                                | Languages                |
+|---|----------------------------------|-----------|--------------------------------------------------------|--------------------------|
+| 1 | Tran5D Workout Planner           | Private   | Summary for Tran5D Workout Planner                     | Python, HTML, CSS, React |
+| 2 | Train5D Supplement Calculator    | Private   | Summary for Train5D Supplement Calculator              | JavaScript, SASS         |
+
+
+
 ## Visual & Product Design | Abstract Art
 In addtion to my development work, I also create abstract art, and repurpose it for different products and accessories.  Here are some products that I particulary like, and are available for purchase on my website. Some items are available in bundles/sets. Featured below is the **Small Details** set. <br> 
 
