@@ -56,9 +56,7 @@ With a background in digital design, and a heart for whole-person wellness, I'm 
 | 5   |                                |         |                                       |                                 |                                 |
 
 ## Stay Connected
-[![Linkedin - View Profile](https://img.shields.io/static/v1?label=Linkedin&message=View+Profile&color=%230a66c2&style=for-the-badge&logo=linkedin&logoColor=%23FFF)](https://www.linkedin.com/company/manningstinson/) 
-
-[![Pinterest - View Profile](https://img.shields.io/static/v1?label=Pinterest&message=View+Profile&color=%23E60023&style=for-the-badge&logo=pinterest&logoColor=%23FFF)](https://www.pinterest.com/manningstinson/)
+[![Linkedin - View Profile](https://img.shields.io/static/v1?label=Linkedin&message=View+Profile&color=%230a66c2&style=for-the-badge&logo=linkedin&logoColor=%23FFF)](https://www.linkedin.com/company/manningstinson/) [![Pinterest - View Profile](https://img.shields.io/static/v1?label=Pinterest&message=View+Profile&color=%23E60023&style=for-the-badge&logo=pinterest&logoColor=%23FFF)](https://www.pinterest.com/manningstinson/)
 
 
 
