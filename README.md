@@ -25,7 +25,6 @@ With a background in digital design, and a heart for whole-person wellness, I'm 
 </table>
 
 ![](https://komarev.com/ghpvc/?username=manningstinson&style=for-the-badge) 
-[![Linkedin - View Profile](https://img.shields.io/static/v1?label=Linkedin&message=View+Profile&color=%230a66c2&style=for-the-badge&logo=linkedin&logoColor=%23FFF)](https://www.linkedin.com/company/manningstinson/)
 
 ## Languages & Platforms
 <img width="60" alt="github logo" src="https://github.com/manningstinson/manningstinson/assets/104523090/f3bff1b7-46ce-42bb-a3c6-ca5c7a49e7d7">
@@ -57,7 +56,11 @@ With a background in digital design, and a heart for whole-person wellness, I'm 
 | 5   |                                |         |                                       |                                 |                                 |
 
 ## Stay Connected
-![[image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]({BadgeURLHere})
+[![Linkedin - View Profile](https://img.shields.io/static/v1?label=Linkedin&message=View+Profile&color=%230a66c2&style=for-the-badge&logo=linkedin&logoColor=%23FFF)](https://www.linkedin.com/company/manningstinson/) 
+
+[![Pinterest - View Profile](https://img.shields.io/static/v1?label=Pinterest&message=View+Profile&color=%23E60023&style=for-the-badge&logo=pinterest&logoColor=%23FFF)](https://www.pinterest.com/manningstinson/)
+
+
 
 <!--
 **manningstinson/manningstinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
