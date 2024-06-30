@@ -58,6 +58,8 @@ With a background in digital design, and a heart for whole-person wellness, I'm 
 ## Follow me on Pinterest
 Design: https://www.pinterest.com/manningstinson/ <br> | https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
+![[image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]({BadgeURLHere})
+
 <!--
 **manningstinson/manningstinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
