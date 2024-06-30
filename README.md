@@ -56,9 +56,7 @@ With a background in digital design, and a heart for whole-person wellness, I'm 
 | 4   |                                |         |                                       |                                 |                                 |
 | 5   |                                |         |                                       |                                 |                                 |
 
-## Follow me on Pinterest
-Design: https://www.pinterest.com/manningstinson/ <br> | https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-
+## Stay Connected
 ![[image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]({BadgeURLHere})
 
 <!--
