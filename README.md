@@ -24,7 +24,8 @@ With a background in digital design, and a heart for whole-person wellness, I'm 
 </tr>
 </table>
 
-![](https://komarev.com/ghpvc/?username=manningstinson&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=manningstinson&style=for-the-badge) 
+[![Linkedin - View Profile](https://img.shields.io/static/v1?label=Linkedin&message=View+Profile&color=%230a66c2&style=for-the-badge&logo=linkedin&logoColor=%23FFF)](https://www.linkedin.com/company/manningstinson/)
 
 ## Languages & Platforms
 <img width="60" alt="github logo" src="https://github.com/manningstinson/manningstinson/assets/104523090/f3bff1b7-46ce-42bb-a3c6-ca5c7a49e7d7">
