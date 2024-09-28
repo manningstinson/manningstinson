@@ -13,7 +13,7 @@ With a background in digital design, and a heart for whole-person wellness, I'm 
   <tr>
     <td valign="top" width="55%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manningstinson&show_icons=true&count_private=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manningstinson&show_icons=true&count_private=false&hide_border=true)
 
 </td>
 <td valign="top" width="45%">
