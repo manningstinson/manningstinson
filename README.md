@@ -17,7 +17,9 @@ With a background in digital design, and a heart for whole-person wellness, I'm 
 
 </td>
 <td valign="top" width="45%">
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manningstinson&hide_border=true&layout=donut&hide=perl&langs_count=6&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manningstinson&hide_border=true&layout=donut&hide=perl&langs_count=6&hide_title=true)
+
 </td>
 </tr>
 </table>
