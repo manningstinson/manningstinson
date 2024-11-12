@@ -45,12 +45,6 @@ With a background in digital design, and a heart for whole-person wellness, I'm 
 <img width="60" alt="C Logo" src="https://github.com/manningstinson/manningstinson/assets/104523090/abd59507-4991-46fd-840a-4195770d38af">
 
 
-## My Tech Stack
-
-### Frontend
-### Backend & Database
-### Development Tools
-### Platforms & Environments
 
 ## Current Projects
 
