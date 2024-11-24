@@ -15,10 +15,6 @@ With a background in digital design, and a heart for whole-person wellness, I'm 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manningstinson&show_icons=true&count_private=false&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manningstinson&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent&include_orgs=true&org=Manning-Stinson-MMS-Art)
-![Organization Stats](https://github-readme-stats.vercel.app/api?username=manningstinson&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent&org=Manning-Stinson-MMS-Art)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manningstinson&layout=compact&hide_border=true&theme=transparent&include_orgs=true&org=Manning-Stinson-MMS-Art)
-
 </td>
 <td valign="top" width="45%">
 
