@@ -20,6 +20,8 @@ With a background in digital design, and a heart for whole-person wellness, I'm 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manningstinson&hide_border=true&layout=donut&hide=perl,c,c%23,c%2B%2B,tcl,makefile,m4&langs_count=6&hide_title=true)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manningstinson&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent&include_orgs=true)
+
 </td>
 </tr>
 </table>
