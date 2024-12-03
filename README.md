@@ -27,8 +27,8 @@ With a background in digital design, and a heart for whole-person wellness, I'm 
 ![](https://komarev.com/ghpvc/?username=manningstinson&style=for-the-badge) 
 
 ## Organizations
-### [Mamie Johnson | MNS Art](https://mamiejohnson.com)
-### [Train5D](https://train5d.com)
+### [Manning Stinson | MMS Art](https://mamiejohnson.com)
+### [Train5D][(https://train5d.com)](https://github.com/Train5d)
 ### [Atlas School](https://www.atlasschool.com)
 
 
