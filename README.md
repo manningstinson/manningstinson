@@ -28,12 +28,14 @@ With a background in digital design, and a heart for whole-person wellness, I'm 
 
 ## Organizations
 
-#### [Manning Stinson | MMS Art](https://github.com/Manning-Stinson-MMS-Art) | 
+### [Manning Stinson | MMS Art](https://github.com/Manning-Stinson-MMS-Art)
+Software Developer, DIgital Artist
 
 ### [Train5D](https://github.com/Train5d)
 Train5D is a digital health platform centered on mindset, nutrition, sleep, posture, and exercise
 
-[Atlas School](https://github.com/MS-Atlas-Student-Work)
+### [Atlas School](https://github.com/MS-Atlas-Student-Work)
+Assignments & Reposistories created during Computer Science & Full Stack Development program
 
 ## Languages & Platforms
 <img width="60" alt="github logo" src="https://github.com/manningstinson/manningstinson/assets/104523090/f3bff1b7-46ce-42bb-a3c6-ca5c7a49e7d7">
