@@ -28,6 +28,13 @@ With a background in digital design, and a heart for whole-person wellness, I'm 
 
 ## Organizations
 
+![Logo](your_logo_url) ## Manning Stinson | MMS Art [Link](your_url)
+
+![Logo](your_logo_url) ## Train5D [Link](your_url)
+
+![Logo](your_logo_url) ## Atlas School [Link](your_url)
+
+
 ### [Manning Stinson | MMS Art](https://github.com/Manning-Stinson-MMS-Art)
 Software Developer, DIgital Artist
 
