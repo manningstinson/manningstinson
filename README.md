@@ -28,21 +28,6 @@ With a background in digital design, and a heart for whole-person wellness, I'm 
 
 ## Organizations
 
-![Atlas School Logo](atlas_logo.png) ## Atlas School [https://www.atlasschool.com](https://www.atlasschool.com)
-
-![Train5D Logo](train5d_logo.png) ## Train5D [https://www.train5d.com](https://www.train5d.com)
-
-![MMS Art Logo](mms_logo.png) ## Manning Stinson | MMS Art [https://www.mmsart.com](https://www.mmsart.com)
-
-### [Manning Stinson | MMS Art](https://github.com/Manning-Stinson-MMS-Art)
-Software Developer, DIgital Artist
-
-### [Train5D](https://github.com/Train5d)
-Train5D is a digital health platform centered on mindset, nutrition, sleep, posture, and exercise
-
-### [Atlas School](https://github.com/MS-Atlas-Student-Work)
-Assignments & Reposistories created during Computer Science & Full Stack Development program
-
 ## Languages & Platforms
 <img width="60" alt="github logo" src="https://github.com/manningstinson/manningstinson/assets/104523090/f3bff1b7-46ce-42bb-a3c6-ca5c7a49e7d7">
 <img width="60" alt="Figma Logo" src="https://github.com/manningstinson/manningstinson/assets/104523090/3ef5fd7b-5d83-4c4f-a1b0-5e13f78c2a96">
